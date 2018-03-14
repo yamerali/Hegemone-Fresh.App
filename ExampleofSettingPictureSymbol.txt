@@ -1,0 +1,25 @@
+require([
+  "esri/symbols/PictureMarkerSymbol", ... 
+], function(PictureMarkerSymbol, ... ) {
+  //Height and Width are specified in points
+  var symbol =  new PictureMarkerSymbol({
+    "url":"graphics/HappyCarrot.png",
+    "height":24,
+    "width":24,
+    "type":"esriPMS"
+    "angle": 0,
+  });
+});
+
+require([
+  "esri/symbols/PictureMarkerSymbol", ... 
+], function(PictureMarkerSymbol, ... ) {
+  //Height and Width are specified in points
+  var symbol =  new PictureMarkerSymbol({
+    "url":"graphics/SadCarrot.png",
+    "height":24,
+    "width":24,
+    "type":"esriPMS"
+    "angle": 0,
+  });
+});
