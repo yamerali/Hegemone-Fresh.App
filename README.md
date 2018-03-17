@@ -1,5 +1,6 @@
 # FRESH.APP
 ## Bringing Farmers and Their Customers Together!
+# Team Hegemone
 
 The Fresh.App brings Farmers and their Customers together. It is the Where, the What, and the When in obtaining fresh farm produce directly from the farm!
 
@@ -17,6 +18,7 @@ The Fresh.App responds directly to the second impediment whereby, the farmer can
 
 
 ## Authors
+Team Hegemone
 *Jenny Tjhin,
 *Yunus Amer,
 *Martin Healy
