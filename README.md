@@ -23,11 +23,11 @@ The Fresh.App will run on any device or browser with a wide variety of screen si
 
 ### Farmer Portal:
 
-Register :
+#### Register :
 
 The farmer needs to register their name, address and usual hours of operation just once with the Fresh.App by choosing the   icon. The Farmer can then use the Address Geocoding Tool to identify their farm location or simply click the location on th map. A point would then appear on the associated map, with the information provided used to identify their fresh food stand.
 
-Twice or more Daily Updates:
+#### Twice or more Daily Updates:
 
 Twice daily the Farmer would access the Fresh.App portal:
 
@@ -37,13 +37,13 @@ Later in the Day:  The Farmer could change the types produce available (adding o
 
 When the farm produce stand is open for business the happy carrot symbol identify’s the location of their Farm, and when closed the   sad carrot symbol will appear.
 
-# Customer Portal:
+### Customer Portal:
 The Fresh.App offers the customer tools to show where the road-side farm gates are, when they are open, and what produce is for sale at that time. 
 
-Show Crops Tool:
+#### Show Crops Tool:
 The Fresh.App offers the user the ability to filter the type of produce and show only those road-side farm gates that have those products for sale at that time. Additionally, by just clicking on any Farm Gate location the customer can see information about the farmer and the produce for sale in real-time.
 
-Interactive Map:
+#### Interactive Map:
 The fully functioning interactive map provides:
 •	A map showing where in Huron County Farmers are selling their produce at that moment.  
 •	The user will interact with the map by clicking on the farmer’s point icon to bring up information about the types of produce and what is available at that time
