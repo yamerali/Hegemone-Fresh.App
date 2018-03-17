@@ -1,13 +1,13 @@
 # FRESH.APP
 ## Bringing Farmers and Their Customers Together!
-# Team Hegemone
+## Team Hegemone
 
 The Fresh.App brings Farmers and their Customers together. It is the Where, the What, and the When in obtaining fresh farm produce directly from the farm!
 
 The Fresh.App provides a platform for Farmer’s to communicate to their customers not only their road-side stand locations and hours but what produce is for sale on that day and at any particular time during that day.
 
 
-# Mission Statement
+## Mission Statement
 
 The 100-mile diet is a movement growing in popularity with food enthusiasts. It is where people fill their food basket with only locally grown produce eating only seasonally appropriate and regional foods. Ideally, the practitioner of the diet only eats food that is grown or produced within a 100-mile radius of one’s home. This requires the individual to develop a greater awareness of from where each meal comes.  The major impediment to a successful 100-mile diet is the factor of convenience.
 
@@ -16,12 +16,12 @@ Included in the food landscape are individual farmer’s fruit, and vegetable st
 
 The Fresh.App responds directly to the second impediment whereby, the farmer can inform their customers of the variety and availability of produce for sale in real time with live updates.
 
-# Two Apps
+## Two Apps
 The Fresh.App is built upon the Esri’s Web AppBuilder for ArcGIS technology has two major components, the Farmer’s Portal, and the Public Customer Portal.
 
 The Fresh.App will run on any device or browser with a wide variety of screen sizes.
 
-# Farmer Portal:
+### Farmer Portal:
 
 Register :
 
@@ -70,8 +70,10 @@ Team Hegemone
 *ECCE App Challenge 2018 (UWO) Team Members
 
 ## Acknowledgments
-Esri ArcGIS Online Web Mapping and App Builder Widgets 
+Esri ArcGIS Online Web Mapping and App Builder Widgets
+
 Carrot Icons modified in Adobe Illustrator from an icon created by Freepik from www.flaticon.com
+
 Online Open-Source Huron County Mapping Layers used courtesy of Huron County
 
 
