@@ -12,9 +12,9 @@ The Fresh.App provides a platform for Farmer’s to communicate to their custome
 
 
 ## Authors
-Jenny Tjhin
-Yunus Amer
-Martin Healy
+*Jenny Tjhin
+*Yunus Amer
+*Martin Healy
 
 App for ECCE App Challenge 2018 (UWO)
 
