@@ -35,8 +35,30 @@ In the morning:  The Farmer would log-in to the Fresh.App and pick the types of 
 
 Later in the Day:  The Farmer could change the types produce available (adding or removing items) as sales and harvesting proceeds during the day. If the Farmer sells out of carrots, for example, they will go to the Fresh.App and remove the carrots item from the list of available produce at their farm. Conversely, if the Farmer had just picked some corn and wanted to sell it, they would go to the Fresh.App and add corn as a new item for sale. If all the produce is sold for that day before the scheduled closing time, the Farmer can override the time and show farm gate stand as now “closed.”
 
-When the farm produce stand is open for business the   happy carrot symbol identify’s the location of their Farm, and when closed the   sad carrot symbol will appear.
+When the farm produce stand is open for business the happy carrot symbol identify’s the location of their Farm, and when closed the   sad carrot symbol will appear.
 
+# Customer Portal:
+The Fresh.App offers the customer tools to show where the road-side farm gates are, when they are open, and what produce is for sale at that time. 
+
+Show Crops Tool:
+The Fresh.App offers the user the ability to filter the type of produce and show only those road-side farm gates that have those products for sale at that time. Additionally, by just clicking on any Farm Gate location the customer can see information about the farmer and the produce for sale in real-time.
+
+Interactive Map:
+The fully functioning interactive map provides:
+•	A map showing where in Huron County Farmers are selling their produce at that moment.  
+•	The user will interact with the map by clicking on the farmer’s point icon to bring up information about the types of produce and what is available at that time
+•	A map directions tool is available to show the route to the farm from the customer’s location.
+Tools Common to Both Portals:
+•	Zoom In and Out 
+•	Default Extent
+•	My Location
+•	Address Geocoding
+•	Base Map Gallery
+•	Share App to Social Media
+•	Route and Directions
+•	Legend – Show Legend
+•	Layer List – Turn off/on mapping layers
+•	Near Me Tool – Find the farm –gate road side produce stands near the user.
 
 
 ## Authors
@@ -46,5 +68,10 @@ Team Hegemone
 *Martin Healy
 
 *ECCE App Challenge 2018 (UWO) Team Members
+
+## Acknowledgments
+Esri ArcGIS Online Web Mapping and App Builder Widgets 
+Carrot Icons modified in Adobe Illustrator from an icon created by Freepik from www.flaticon.com
+Online Open-Source Huron County Mapping Layers used courtesy of Huron County
 
 
