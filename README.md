@@ -14,6 +14,18 @@ At present, Huron County is home to a diversity of Local Farmers Markets that ar
 Included in the food landscape are individual farmer’s fruit, and vegetable stands along the road-way at their farm’s gate. These farm gate markets are usually an informal way for local farm families to share some of their extra produce directly with the public.  Often these farm gate fruit and vegetable stands are informal, unmanned and work on the honour system meaning that the produce is paid for by the customer in a secure lock-box.  This provides a customer with some guarantee that the produce is grown locally and the satisfaction of purchasing their food directly from those who grow it. For the farmer, this means that they can sell their produce efficiently to their customers with little overhead and reduce the need to transport their produce to their customers. For those people trying to fill their food basket with locally grown produce and those interested in trying to live the 100 mile diet, the option of road-side farm gate food purchases is appealing. At present, the two main impediments to farm gate food purchases are the distance to drive to the road-side farm gate and the infrequency of available produce for sale due to the informal nature of how road-side farm gate stands are managed. 
 The Fresh.App responds directly to the second impediment whereby, the farmer can inform their customers of the variety and availability of produce for sale in real time with live updates.
 
+# Farmer Portal
+The Fresh.App is built upon the Esri’s Web AppBuilder for ArcGIS technology has two major components, the Farmer’s Portal, and the Public Customer Portal.
+
+The Fresh.App will run on any device or browser with a wide variety of screen sizes.
+Farmer Portal:
+Register :
+The farmer needs to register their name, address and usual hours of operation just once with the Fresh.App by choosing the   icon. The Farmer can then use the Address Geocoding Tool to identify their farm location or simply click the location on th map. A point would then appear on the associated map, with the information provided used to identify their fresh food stand.
+Twice or more Daily Updates:
+Twice daily the Farmer would access the Fresh.App portal:
+ In the morning:  The Farmer would log-in to the Fresh.App and pick the types of produce that they would be selling on that particular day by clicking on their farm gate point using the Edit  Tool. Additionally, if their regular hours of operation change for whatever reason they can override the default operating hours and show their farm gate stand as “open” or “closed.”
+Later in the Day:  The Farmer could change the types produce available (adding or removing items) as sales and harvesting proceeds during the day. If the Farmer sells out of carrots, for example, they will go to the Fresh.App and remove the carrots item from the list of available produce at their farm. Conversely, if the Farmer had just picked some corn and wanted to sell it, they would go to the Fresh.App and add corn as a new item for sale. If all the produce is sold for that day before the scheduled closing time, the Farmer can override the time and show farm gate stand as now “closed.”
+When the farm produce stand is open for business the   happy carrot symbol identify’s the location of their Farm, and when closed the   sad carrot symbol will appear.
 
 
 
