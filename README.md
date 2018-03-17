@@ -70,7 +70,7 @@ Team Hegemone
 *ECCE App Challenge 2018 (UWO) Team Members
 
 ## Acknowledgments
-Esri ArcGIS Online Web Mapping and App Builder Widgets
+Esri ArcGIS Online Web Mapping and App Builder for ArcGIS Widgets
 
 Carrot Icons modified in Adobe Illustrator from an icon created by Freepik from www.flaticon.com
 
